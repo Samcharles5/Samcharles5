@@ -9,7 +9,7 @@ Bachelor's in **Computer Science Engineering (Honours)** from **Anna University*
 - 🍿 I love to Movies and Series.
 
 
-*** Reach out to me ***
+**Reach out to me**
 <p align="center">
 	<a href="https://github.com/Samcharles5/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sam--charles--/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
